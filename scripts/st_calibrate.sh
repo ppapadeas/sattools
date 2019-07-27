@@ -11,7 +11,7 @@ fi
 if [ ! -e "test.fits" ]; then
     ls -1 2*.fits | head -n$N | tail -n1 | awk '{printf("cp %s test.fits\n",$1)}' | sh
 fi
-sextractor test.fits -c $ST_DATADIR/sextractor/default.sex
+sex test.fits -c $ST_DATADIR/sextractor/default.sex
 mv test.cat test.fits.cat
 
 mkdir cal png

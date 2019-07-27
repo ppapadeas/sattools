@@ -63,3 +63,7 @@
 4160 BD   51.2793    5.4768     35    Bram Dorreman
 9998 DT   52.8119    6.3961     10    Dwingeloo telescoop
 9999 GR   47.348     5.5151    100    Graves
+0799 PP   36.9608   22.1448    120    Pierros Papadeas
+9919 PP   38.6502   21.6662   1199    Pierros Papadeas
+9918 PP   37.8785   22.9426    199    Pierros Korinthos
+0797 PP   36.9708   22.1448      6    Pierros Arxodiko
